@@ -42,6 +42,9 @@ To get a local copy of the project up and running, follow these steps:
  npm run dev
 ```
 
+* Dependencies installed are :
+
+![App Screenshot](https://i.ibb.co/580KDZJ/image.png)
 
 ## API Reference
 
@@ -55,9 +58,12 @@ Parameters
 * index : Index of the submission to retrieve.
 * email : Email of the submission to retrieve.
 
-```http
-  GET /read/?
-```
+
+  [http://localhost:3000/read?index=<index>](http://localhost:3000/read?index=<index>)
+
+  [http://localhost:3000/read?email="mail"](http://localhost:3000/read?email="mail")
+
+
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -80,9 +86,8 @@ Create a new submission.
 
 
 
-```http
-  GET /read/?
-```
+[http://localhost:3000/submit](http://localhost:3000/submit)
+
 * Request Body
 ```bash
   {
@@ -116,4 +121,8 @@ Create a new submission.
 #### GET /PING 
 
 Returns a True value if uccessfully connected.
+
+  [http://localhost:3000/ping](http://localhost:3000/ping)
+
+
 ![App Screenshot](https://i.ibb.co/hYLX9rg/GetPing.png)
