@@ -61,6 +61,8 @@ Parameters
 
   [http://localhost:3000/read?index=0](http://localhost:3000/read?index=0)
 
+  [http://localhost:3000/read?email=email@test.com](http://localhost:3000/read?email=email@test.com)
+  
   [http://localhost:3000/read?email=test@mail.com](http://localhost:3000/read?email=test@mail.com)
 
 
