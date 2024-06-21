@@ -59,9 +59,9 @@ Parameters
 * email : Email of the submission to retrieve.
 
 
-  [http://localhost:3000/read?index=<index>](http://localhost:3000/read?index=<index>)
+  [http://localhost:3000/read?index=0](http://localhost:3000/read?index=0)
 
-  [http://localhost:3000/read?email="mail"](http://localhost:3000/read?email="mail")
+  [http://localhost:3000/read?email=test@mail.com](http://localhost:3000/read?email=test@mail.com)
 
 
 
