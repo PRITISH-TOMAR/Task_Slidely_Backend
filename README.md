@@ -117,8 +117,7 @@ Create a new submission.
 ```
 ![App Screenshot](https://i.ibb.co/pLK9XyF/Post-Submit.png)
 
-*  Error Handling : 
-   Errors are returned with appropriate HTTP status codes and messages.
+
 
 #### GET /PING 
 
@@ -128,3 +127,7 @@ Returns a True value if uccessfully connected.
 
 
 ![App Screenshot](https://i.ibb.co/hYLX9rg/GetPing.png)
+
+
+*  Error Handling : 
+   Errors are returned with appropriate HTTP status codes and messages.
