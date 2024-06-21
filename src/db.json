@@ -1,0 +1,347 @@
+{
+  "submissions": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@gmail.com",
+      "phone": "9520405000",
+      "github_link": "github.com/alicejohnson",
+      "stopwatch_time": "00:01:15"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.smith@gmail.com",
+      "phone": "9520405001",
+      "github_link": "github.com/bsmith",
+      "stopwatch_time": "00:00:45"
+    },
+    {
+      "name": "Charlie Brown",
+      "email": "charlie.brown@gmail.com",
+      "phone": "9520405002",
+      "github_link": "github.com/charlieb",
+      "stopwatch_time": "00:02:30"
+    },
+    {
+      "name": "David Wilson",
+      "email": "david.wilson@gmail.com",
+      "phone": "9520405003",
+      "github_link": "github.com/davidwilson",
+      "stopwatch_time": "00:00:55"
+    },
+    {
+      "name": "Eve Davis",
+      "email": "eve.davis@gmail.com",
+      "phone": "9520405004",
+      "github_link": "github.com/evedavis",
+      "stopwatch_time": "00:01:25"
+    },
+    {
+      "name": "Frank Moore",
+      "email": "frank.moore@gmail.com",
+      "phone": "9520405005",
+      "github_link": "github.com/fmoore",
+      "stopwatch_time": "00:00:35"
+    },
+    {
+      "name": "Grace Taylor",
+      "email": "grace.taylor@gmail.com",
+      "phone": "9520405006",
+      "github_link": "github.com/gracetaylor",
+      "stopwatch_time": "00:01:50"
+    },
+    {
+      "name": "Hank Anderson",
+      "email": "hank.anderson@gmail.com",
+      "phone": "9520405007",
+      "github_link": "github.com/hankanderson",
+      "stopwatch_time": "00:00:40"
+    },
+    {
+      "name": "Ivy Thomas",
+      "email": "ivy.thomas@gmail.com",
+      "phone": "9520405008",
+      "github_link": "github.com/ivythomas",
+      "stopwatch_time": "00:02:10"
+    },
+    {
+      "name": "Jack Martin",
+      "email": "jack.martin@gmail.com",
+      "phone": "9520405009",
+      "github_link": "github.com/jackmartin",
+      "stopwatch_time": "00:01:05"
+    },
+    {
+      "name": "Karen Jackson",
+      "email": "karen.jackson@gmail.com",
+      "phone": "9520405010",
+      "github_link": "github.com/karenjackson",
+      "stopwatch_time": "00:01:35"
+    },
+    {
+      "name": "Leo White",
+      "email": "leo.white@gmail.com",
+      "phone": "9520405011",
+      "github_link": "github.com/leowhite",
+      "stopwatch_time": "00:00:50"
+    },
+    {
+      "name": "Mia Harris",
+      "email": "mia.harris@gmail.com",
+      "phone": "9520405012",
+      "github_link": "github.com/miaharris",
+      "stopwatch_time": "00:02:00"
+    },
+    {
+      "name": "Nate Clark",
+      "email": "nate.clark@gmail.com",
+      "phone": "9520405013",
+      "github_link": "github.com/nateclark",
+      "stopwatch_time": "00:00:30"
+    },
+    {
+      "name": "Olivia Lewis",
+      "email": "olivia.lewis@gmail.com",
+      "phone": "9520405014",
+      "github_link": "github.com/olivialewis",
+      "stopwatch_time": "00:01:20"
+    },
+    {
+      "name": "Paul Robinson",
+      "email": "paul.robinson@gmail.com",
+      "phone": "9520405015",
+      "github_link": "github.com/paulrobinson",
+      "stopwatch_time": "00:00:25"
+    },
+    {
+      "name": "Quinn Walker",
+      "email": "quinn.walker@gmail.com",
+      "phone": "9520405016",
+      "github_link": "github.com/quinnwalker",
+      "stopwatch_time": "00:02:15"
+    },
+    {
+      "name": "Rachel Hall",
+      "email": "rachel.hall@gmail.com",
+      "phone": "9520405017",
+      "github_link": "github.com/rachelhall",
+      "stopwatch_time": "00:01:10"
+    },
+    {
+      "name": "Steve Young",
+      "email": "steve.young@gmail.com",
+      "phone": "9520405018",
+      "github_link": "github.com/steveyoung",
+      "stopwatch_time": "00:00:55"
+    },
+    {
+      "name": "Tina King",
+      "email": "tina.king@gmail.com",
+      "phone": "9520405019",
+      "github_link": "github.com/tinaking",
+      "stopwatch_time": "00:01:40"
+    },
+    {
+      "name": "Uma Wright",
+      "email": "uma.wright@gmail.com",
+      "phone": "9520405020",
+      "github_link": "github.com/umawright",
+      "stopwatch_time": "00:00:45"
+    },
+    {
+      "name": "Victor Scott",
+      "email": "victor.scott@gmail.com",
+      "phone": "9520405021",
+      "github_link": "github.com/victorscott",
+      "stopwatch_time": "00:01:55"
+    },
+    {
+      "name": "Wendy Adams",
+      "email": "wendy.adams@gmail.com",
+      "phone": "9520405022",
+      "github_link": "github.com/wendyadams",
+      "stopwatch_time": "00:00:35"
+    },
+    {
+      "name": "Xander Carter",
+      "email": "xander.carter@gmail.com",
+      "phone": "9520405023",
+      "github_link": "github.com/xandercarter",
+      "stopwatch_time": "00:02:05"
+    },
+    {
+      "name": "Yara Morgan",
+      "email": "yara.morgan@gmail.com",
+      "phone": "9520405024",
+      "github_link": "github.com/yarapmorgan",
+      "stopwatch_time": "00:01:15"
+    },
+    {
+      "name": "Zane Foster",
+      "email": "zane.foster@gmail.com",
+      "phone": "9520405025",
+      "github_link": "github.com/zanefoster",
+      "stopwatch_time": "00:00:50"
+    },
+    {
+      "name": "Abby Murphy",
+      "email": "abby.murphy@gmail.com",
+      "phone": "9520405026",
+      "github_link": "github.com/abbymurphy",
+      "stopwatch_time": "00:01:30"
+    },
+    {
+      "name": "Ben Rivera",
+      "email": "ben.rivera@gmail.com",
+      "phone": "9520405027",
+      "github_link": "github.com/benrivera",
+      "stopwatch_time": "00:00:20"
+    },
+    {
+      "name": "Clara Cooper",
+      "email": "clara.cooper@gmail.com",
+      "phone": "9520405028",
+      "github_link": "github.com/claracooper",
+      "stopwatch_time": "00:02:00"
+    },
+    {
+      "name": "Dylan Peterson",
+      "email": "dylan.peterson@gmail.com",
+      "phone": "9520405029",
+      "github_link": "github.com/dylanpeterson",
+      "stopwatch_time": "00:00:55"
+    },
+    {
+      "name": "Ella Cook",
+      "email": "ella.cook@gmail.com",
+      "phone": "9520405030",
+      "github_link": "github.com/ellacook",
+      "stopwatch_time": "00:01:40"
+    },
+    {
+      "name": "Finn Bailey",
+      "email": "finn.bailey@gmail.com",
+      "phone": "9520405031",
+      "github_link": "github.com/finnbailey",
+      "stopwatch_time": "00:00:25"
+    },
+    {
+      "name": "Gina Powell",
+      "email": "gina.powell@gmail.com",
+      "phone": "9520405032",
+      "github_link": "github.com/ginapowell",
+      "stopwatch_time": "00:01:50"
+    },
+    {
+      "name": "Henry Hughes",
+      "email": "henry.hughes@gmail.com",
+      "phone": "9520405033",
+      "github_link": "github.com/henryhughes",
+      "stopwatch_time": "00:00:35"
+    },
+    {
+      "name": "Isla Price",
+      "email": "isla.price@gmail.com",
+      "phone": "9520405034",
+      "github_link": "github.com/islaprice",
+      "stopwatch_time": "00:01:45"
+    },
+    {
+      "name": "Jackie Bell",
+      "email": "jackie.bell@gmail.com",
+      "phone": "9520405035",
+      "github_link": "github.com/jackiebell",
+      "stopwatch_time": "00:00:30"
+    },
+    {
+      "name": "Karl Reed",
+      "email": "karl.reed@gmail.com",
+      "phone": "9520405036",
+      "github_link": "github.com/karlreed",
+      "stopwatch_time": "00:02:10"
+    },
+    {
+      "name": "Lara Stewart",
+      "email": "lara.stewart@gmail.com",
+      "phone": "9520405037",
+      "github_link": "github.com/larastewart",
+      "stopwatch_time": "00:01:20"
+    },
+    {
+      "name": "Max Baker",
+      "email": "max.baker@gmail.com",
+      "phone": "9520405038",
+      "github_link": "github.com/maxbaker",
+      "stopwatch_time": "00:00:45"
+    },
+    {
+      "name": "Nina Lee",
+      "email": "nina.lee@gmail.com",
+      "phone": "9520405039",
+      "github_link": "github.com/ninalee",
+      "stopwatch_time": "00:01:35"
+    },
+    {
+      "name": "Oscar James",
+      "email": "oscar.james@gmail.com",
+      "phone": "9520405040",
+      "github_link": "github.com/oscarjames",
+      "stopwatch_time": "00:00:55"
+    },
+    {
+      "name": "Penny Kim",
+      "email": "penny.kim@gmail.com",
+      "phone": "9520405041",
+      "github_link": "github.com/pennykim",
+      "stopwatch_time": "00:01:50"
+    },
+    {
+      "name": "Quincy Reed",
+      "email": "quincy.reed@gmail.com",
+      "phone": "9520405042",
+      "github_link": "github.com/quincyreed",
+      "stopwatch_time": "00:00:40"
+    },
+    {
+      "name": "Riley Evans",
+      "email": "riley.evans@gmail.com",
+      "phone": "9520405043",
+      "github_link": "github.com/rileyevans",
+      "stopwatch_time": "00:01:25"
+    },
+    {
+      "name": "Sophie Scott",
+      "email": "sophie.scott@gmail.com",
+      "phone": "9520405044",
+      "github_link": "github.com/sophiescott",
+      "stopwatch_time": "00:00:30"
+    },
+    {
+      "name": "Theo Collins",
+      "email": "theo.collins@gmail.com",
+      "phone": "9520405045",
+      "github_link": "github.com/theocollins",
+      "stopwatch_time": "00:02:45"
+    },
+    {
+      "name": "Demo",
+      "email": "mail@g.com",
+      "phone": "252525353",
+      "github_link": "Github",
+      "stopwatch_time": "00:00:14"
+    },
+    {
+      "name": "ANSWER",
+      "email": "email@test.com",
+      "phone": "9521354896",
+      "github_link": "Repo_Github",
+      "stopwatch_time": "00:00:20"
+    },
+    {
+      "name": "N",
+      "email": "E",
+      "phone": "0",
+      "github_link": "H",
+      "stopwatch_time": "ST"
+    }
+  ]
+}
